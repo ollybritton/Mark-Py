@@ -1,5 +1,5 @@
 # Mark-Py
-Mark-Py is a Markov Bot which is a form of chatbot which takes text and outputs text which is different, but seemingly related. This program takes a text file and returns another text file which is in a similar style, but with new content. I also have a [Javascript version of this](github.com/ollybritton/mark.js), named `Mark-Js`, which is similar but is designed to generate smaller amounts of text for things like twitter bots.
+Mark-Py is a Markov Bot which is a form of chatbot which takes text and outputs text which is different, but seemingly related. This program takes a text file and returns another text file which is in a similar style, but with new content. I also have a [Javascript version of this](https://github.com/ollybritton/Mark-Js), named `Mark-Js`, which is similar but is designed to generate smaller amounts of text for things like twitter bots.
 
 ## Use
 To use the program itself, first you need to place the text file in the directory, and then link to it in the `FILE` variable near the top of the script. If you want to set a specific output location, you can also link to that in the `OUTPUT` variable.
