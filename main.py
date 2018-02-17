@@ -2,7 +2,7 @@ import random
 
 # === CHANGE THESE VARIABLES ===
 
-FILE = "samples/interstellar.txt"
+FILE = "samples/rap.txt"
 OUTPUT = "results/output.txt"
 
 PARAGRAPHS_PER_FILE = 3

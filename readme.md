@@ -7,12 +7,12 @@ To use the program itself, first you need to place the text file in the director
 There are a couple files you can try yourself, located in the `samples` directory.
 
 + `rap.txt` contains a vast majority of Eminem's songs, which can be used to generate awesome new songs. Here's a sample of the output from that.
-  + "sh\*\* I just saw her cheek
-  + and smearin her lipstick, I slipped this in church
-  + and smack your face looks the knife
-  + My mother's throat
-  + \*AHHHHHHHH!\* Guess who's back
-  + Back back \*scratch\*"
+> "sh\*\* I just saw her cheek
+and smearin her lipstick, I slipped this in church
+and smack your face looks the knife
+My mother's throat
+\*AHHHHHHHH!\* Guess who's back
+Back back \*scratch\*"
 
 
 + `interstellar.txt` contains the entire script of Christopher Nolan's hit film *Interstellar*, and can be used to generate dramatic quotes, creating instant drama in any situation.
@@ -24,6 +24,46 @@ There are a couple files you can try yourself, located in the `samples` director
   - Override.
   - Hatch lockout.
   - Is he locked on yet?
+  
++ `thomas.txt` is unfortunately, a Thomas The Tank engine fanfiction, I *ahem* got the legal right to copy off [https://fanfiction.net](https://www.fanfiction.net/s/12719046/1/Random-Stories-of-Sodor). **Disclaimer:** I do not like Thomas The Tank Engine fanfiction. It's just something I thought might be funny to add.
+  -  "Yes, it is," his driver said. "The workman are securing everything," said the hopes of trucks, and he misses his friend.
+  - One evening, his coal bunker and securing everything," said Duck's driver. "There's a piling.
+  - Duck, this is Captain Charles," the foreman approached along with everyone aboard. I doubt they'll be here to help."
+  
++ `shakespeare.txt` is a selection of Shakespeare's works. Because of the sheer size of the dataset, coupled with the hard-to-read nature of Shakespeare's work, only people who actually understand what they're reading will probably pick up on the fact it's written by a machine. I call this one *"The Robbery of York"*:
+
+> First Citizen:
+Before we eat. By Jove himself!
+It makes the foe doth become of trial.
+
+> DUKE OF YORK:
+Bound to strike.
+
+>S AMPSON:
+A dog them at Venice gave
+His body to behold my cheek
+For that robbery, thy desperate hand:
+Art thou a dear account,
+Since last I slew in meeting,
+So, weeping, make one that fixes
+
+Here's some of Romeo's cut inner monologue from *"Romeo & Juliet: Directors Cut"*:
+
+> ROMEO:
+Then move not, the city to the way;
+Not knowing how to reprehend my friends.
+Therefore, to chain up his rest,
+That you shall tear
+The slavish yoke,
+Imp out my desperate sorrow in first seeing it, of content.
+What! we rejoice in twelve,
+Found truth o' the princess
+With the palace I awhile obsequiously
+
++ `bible.txt` is a version of the bible. It doesn't product great results, but here it is anyway:
+
+> And the men of trespass, whether we live therefore, our God, other lords and renowned, all of Milcah, which is least, why the bush is not God chosen the rams, and not of us. We are they that keep thy testimonies. I lead them: and, behold, their mouths.
+
 
 There are also some variables that you can tweak with to get a different results:
 
